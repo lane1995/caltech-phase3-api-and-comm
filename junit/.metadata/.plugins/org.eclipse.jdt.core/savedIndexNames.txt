@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\LaneA\OneDrive\Documents\coding bootcamp\backend-practice-projects\JUnit\.metadata\.plugins\org.eclipse.jdt.core
-2834495000.index
-777437500.index
-1865797976.index
